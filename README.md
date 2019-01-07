@@ -1,12 +1,6 @@
 # RPS_Project
 1. Download the starter code
-Click here to download the starter code.
-
 The starter code gives you a place to begin, with Player and Game classes that are mostly empty. Over the course of the project, you will be greatly expanding the classes and methods in this program.
-
-Read the starter code, and run it on your computer to see what it does.
-
-Try importing it into the Python interpreter and experimenting with the Player and Game objects.
 
 2. Create a player subclass that plays randomly
 The starter Player class always plays 'rock'. That's not a very good strategy! Create a subclass called RandomPlayer that chooses its move at random. When you call the move method on a RandomPlayer object, it should return one of 'rock', 'paper', or 'scissors' at random.
